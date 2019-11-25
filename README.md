@@ -1,1 +1,1 @@
-# yrazy_game
+# Yrazy
